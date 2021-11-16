@@ -8,7 +8,7 @@
     <body>
         <div class="container-fluid">
             <?php
-                echo "<h1>id de algo</h1>";
+                echo "<h1>id</h1>";
                 echo "<p>123234 - carlos</p>";
                 echo "<p>345643 - miguel</p>";
                 echo "<p>987234 - paco</p>";
